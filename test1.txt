@@ -1,0 +1,2 @@
+>> Configuring github
+git config --global user.name "ChandraPatel007"
